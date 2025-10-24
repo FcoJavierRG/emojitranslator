@@ -1,6 +1,6 @@
 Simple Emoji Translator 💬➡️😎
 
-This is a simple web app built with Python, Streamlit, and GitHub, designed for a high school coding activity. It "translates" specific words from a user's sentence into corresponding emojis.
+This is a simple web app built with Python, Streamlit, and GitHub, designed for a simple coding activity. It "translates" specific words from a user's sentence into corresponding emojis.
 
 All emojis used in this project are from Get Emoji: https://getemoji.com/.
 
@@ -37,4 +37,4 @@ Point it to your new GitHub repository.
 
 Set the Main file path to app.py.
 
-Click Deploy!
+Deploy!
