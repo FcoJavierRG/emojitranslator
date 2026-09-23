@@ -148,7 +148,7 @@ if output_sentence:
 #
 # Remove the # from ONE of them and run your app!
 #
- st.balloons()
+st.balloons()
 #
 # st.snow()
 #
